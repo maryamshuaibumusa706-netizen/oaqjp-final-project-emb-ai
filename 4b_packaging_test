@@ -1,0 +1,5 @@
+Test 1 - I love this:
+{'anger': 0.005808927, 'disgust': 0.0020104267, 'fear': 0.005620722, 'joy': 0.9842833, 'sadness': 0.024038913, 'dominant_emotion': 'joy'}
+
+Test 2 - I hate working long hours:
+{'anger': 0.64949876, 'disgust': 0.03718168, 'fear': 0.05612277, 'joy': 0.00862553, 'sadness': 0.1955148, 'dominant_emotion': 'anger'}
